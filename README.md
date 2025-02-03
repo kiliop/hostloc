@@ -1,5 +1,5 @@
 # Hostloc 刷分脚本
-Hostloc 全球主机交流论坛 PHP刷分脚本
+Hostloc 全球主机交流论坛 PHP刷分脚本okk
 
 ## 食用方法
 1. 常规PHP环境
